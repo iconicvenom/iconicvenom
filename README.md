@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently AI/Ml<br>👯 I’m looking to crack GSoC<br>🤝 I’m looking for help with developers<br>🌱 I’m currently learning webGL,ML<br>💬 Ask me about anything<br>⚡ Fun fact am 6'3 😎
+🔭 I’m currently Learning AI/Ml<br>👯 I’m looking to crack GSoC<br>🤝 I’m looking for help with developers<br>🌱 I’m currently learning webGL,ML<br>💬 Ask me about anything<br>⚡ Fun fact am 6'3 😎
 
 
 ## 🌐 Socials:
