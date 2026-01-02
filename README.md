@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently Learning AI/Ml<br>👯 I’m looking after new Skills<br>🤝 I’m looking for help with developers<br>🌱 I’m currently learning webGL,ML<br>💬 Ask me about anything<br>⚡ Fun fact am 6'3 😎
+# ✨ About Me:
+I build at the intersection of computer science and AI, focusing on turning theory into real-world, production-ready solutions. My work spans machine learning models, scalable web applications, and data-driven systems that improve efficiency and decision-making.
+
+Strong focus on Python, Data Structures & Algorithms, Machine Learning fundamentals, and software engineering best practices. Actively building, learning, and seeking internships or project opportunities in software development and AI/ML...
 
 
 ## 🌐 Socials:
