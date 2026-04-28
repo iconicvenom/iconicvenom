@@ -1,6 +1,4 @@
 # ✨ About Me:
-I build at the intersection of computer science and AI, focusing on turning theory into real-world, production-ready solutions. My work spans machine learning models, scalable web applications, and data-driven systems that improve efficiency and decision-making.
-
 Strong focus on Python, Data Structures & Algorithms, Machine Learning fundamentals, and software engineering best practices. Actively building, learning, and seeking internships or project opportunities in software development and AI/ML...
 
 
