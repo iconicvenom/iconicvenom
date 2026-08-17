@@ -1,5 +1,6 @@
 # ✨ About Me:
 Strong focus on Python, Data Structures & Algorithms, Machine Learning fundamentals, and software engineering best practices. Actively building, learning, and seeking internships or project opportunities in software development and AI/ML...
+checkout: https://iconicvenom.framer.wiki/
 
 
 ## 🌐 Socials:
